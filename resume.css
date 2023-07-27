@@ -1,0 +1,1006 @@
+body
+{
+     background-image:linear-gradient( rgba(159, 208, 236, 0.5)10% ,rgba(255,255,255)90%), url(images/bg.PNG);
+     background-size:cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+}
+#div-container
+{
+     background-color:rgb(239, 245, 239);
+     box-shadow:1px 1px 10px 0px;
+     margin-top:180px;
+     padding-bottom: 40px;
+}
+#div-col
+{
+    padding-left:30px;
+    width: 30%;
+}
+#img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:220px;
+}
+#margin-top
+{
+    margin-top: 20px;
+}
+.detail
+{
+   margin-left: 20px;  
+}
+.detail-name
+{
+    background-color: blue;
+    padding: 3px 5px;
+    font-weight: bolder;
+    border-radius:3px;
+    color: white;
+}
+.info
+{
+    font-size: 15px;
+    color: black;
+    margin-left:20px;
+}
+#num
+{
+    margin-left:30px;
+}
+#mail
+{
+    margin-left:30px;
+}
+#div-col2
+{
+    width: 70%;
+    padding-right:50px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+#name
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+}
+#professional
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 10px;
+}
+#margin-bottom
+{
+    margin-bottom:30px;
+    margin-top:30px;
+}
+.media
+{
+    font-size:25px;
+    margin-right:30px;
+}
+#my-self
+{
+    font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing:5px;
+    text-align: justify;
+    text-transform: capitalize;
+    margin-bottom:20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.b-t-n
+{
+    background-color: blue;
+    font-weight: bolder;
+    width:150px;
+    padding: 4px 0px;
+    margin-left:-12px;
+    color:white;
+    margin-right: 20px;
+}
+.social
+{
+     margin-right:40px;
+     background-color:blue;
+     height:50px;
+     border-radius:50%;
+     padding:7px;
+}
+.media
+{
+     color:white;
+     margin-left:auto;
+     margin-right:auto;
+     font-size:16px;
+}
+#div-skill
+{
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#div-container2
+{
+     background-color:transparent;
+     box-shadow:1px 1px 10px 0px;
+     margin-top:50px;
+     height: auto;
+     margin-bottom: 30px;
+}
+#div-row2
+{
+     display: flex;
+}
+#div-col-prof
+{
+     background-color:rgb(239, 245, 239);
+     width:50%;
+     height: auto;
+     padding-bottom:30px ;
+     border-right:8px solid white;
+     text-align: center;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 50px;
+}
+#prof-pers
+{
+     font-size:30px;
+     color: white;
+}
+.h4-prof-pers
+{
+     font-weight:400;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     margin-top:20px;
+     margin-top: 30px;
+     margin-bottom: 30px;
+}
+#div-col-pers
+{
+     background-color:rgb(239, 245, 239);
+     width:50%;
+     text-align: center;
+     border-left:8px solid white;
+     height: auto;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 50px;
+}
+
+#pers
+{
+     font-size: 30px;
+     color: white;
+}
+.icon-div
+{
+     background-color:blue;
+     margin-top:-30px;
+     display: inline-block;
+     width:50px;
+     border-radius: 50%;
+}
+.skills
+{
+     text-align: left;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin-bottom:4PX;
+     margin-top:30px
+}
+#div-exp
+{
+     background-color:rgb(239, 245, 239);
+     box-shadow:1px 1px 10px 0px;
+     margin-top:50px;
+     height:auto;
+     margin-bottom:30px;
+     padding-bottom:18px;
+}
+#row-exp
+{
+     display:flex;
+     justify-content:center;
+}
+#col-exp1
+{
+     width: 50%;
+     height:auto;
+     border-right:2px solid blue;
+}
+#col-exp2
+{
+     width: 50%;
+     height:auto;
+     border-left:2px solid blue;
+}
+#facebook
+{
+     margin:10px;
+     width:95%;
+     background-color:white;
+     padding:20px;
+     padding-right:30px;
+     text-align: justify;
+     border-radius:20px;
+     margin-top:-100px;
+}
+#fb-date
+{
+     position:relative;
+     margin-top:60px;
+     background-color: blue;
+     display: inline-block;
+     padding: 5px;
+     color: white;
+     font-weight: bolder;
+     margin-left: 20px;
+     border-radius: 10px;
+}
+#check
+{ 
+     text-align:left;
+     margin-left:-32px;
+     margin-top:-40px;
+     position: relative;
+}
+.right
+{
+     font-size:32px;
+     color:blue; 
+     background-color:white;
+     border-radius:60%;
+}
+.com
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.position
+{
+  background-color: rgb(245, 241, 241);
+  display: inline-block;
+  padding:10px;
+}
+#google
+{
+     margin-left: 20px;
+     width:95%;
+     background-color: white;
+     padding: 20px;
+     padding-right:30px;
+     text-align: justify;
+     border-radius: 20px;
+     margin-top:250px;
+}
+#check2
+{
+  text-align:right;
+  position: relative;
+  top:275px;
+  left:32px;
+}
+.right2
+{
+     font-size:32px;
+     color:blue; 
+     background-color:white;
+     border-radius:60%;
+}
+#gl-date
+{
+     margin-top:40px;
+     background-color: blue;
+     display: inline-block;
+     padding: 5px;
+     color: white;
+     font-weight: bolder;
+     border-radius: 10px;
+     position: relative;
+     top:320px;
+     left:475px;
+}
+#abc
+{
+     margin:10px;
+     width:95%;
+     background-color: white;
+     padding: 20px;
+     padding-right:30px;
+     text-align: justify;
+     border-radius: 20px;
+     margin-top:340px;
+}
+#check3
+{
+  text-align:left;
+  position: relative;
+  left:-32px;
+  bottom: -50px;
+}
+.right3
+{
+     font-size:32px;
+     color:blue; 
+     background-color:white;
+     border-radius:60%;
+}
+#abc-date
+{
+     background-color: blue;
+     display: inline-block;
+     padding: 5px;
+     color: white;
+     font-weight: bolder;
+     border-radius: 10px;
+     position:relative;
+     top:10px;
+     margin-left:20px;
+}
+#bag-con
+{
+  position: relative;
+  top:-50px;
+  left:627px;
+  color:white;
+  background-color: blue;
+  display: inline-block;
+  border-radius: 50%;
+}
+#bag
+{
+  font-size:32px;
+  padding: 5px;
+}
+.original-date
+{
+     display: none;
+}
+.visible
+{
+     display: none;
+}
+#service-heading
+{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    margin-bottom:-15px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#service-container
+{
+      background-color:rgb(239, 245, 239);
+      box-shadow:1px 1px 10px 0px;
+      margin-top:50px;
+      height:auto;
+      padding-bottom:30px;
+      margin-bottom: 50px; 
+}
+#col1-service
+{
+      width:50%;
+      background-color:white;
+      padding:40px;
+      margin-top:40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+      text-align: justify;
+}
+#col2-service
+{
+     width:50%;
+     background-color:white;
+     text-align: justify;
+     padding:40px;
+     text-align:justify;
+     margin-top:40px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-bottom: 20px;
+}
+.bdr1
+{
+     border-left:50px solid rgb(239, 245, 239);
+     border-right:25px solid rgb(239, 245, 239);
+}
+.bdr2
+{
+     border-left:25px solid rgb(239, 245, 239);
+     border-right:50px solid rgb(239, 245, 239);
+}
+
+.prof-name
+{
+     text-align: center;
+     margin-bottom:25px;
+     margin-top: -25px;
+}
+.icon-prof
+{
+     background-color:blue;
+     width:30px;
+     display: inline-block;
+     border-radius:50%;
+     position: relative;
+     top:-58px;
+}
+.iconStyle
+{
+     color: white;
+     font-size:22px;
+     margin-left:4px;
+}
+.dis-block
+{
+     display: none;
+}
+/*Extra Large Screen 1200px - 1399px */
+@media only screen and (min-width:1200px) and (max-width:1399px)
+{
+     #div-container
+                    {
+                         margin-top:80px;
+                    }
+                    
+     .info
+                    {
+                        font-size:13px;
+                        margin-left:15px;
+                        font-weight:500;
+                    }   
+
+     #add
+                    {
+                        margin-left: 40px;
+                    }
+                    
+                    #div-exp
+                    {
+                         height:auto;
+                    }
+#col-exp1
+{
+     height:auto;
+}
+#col-exp2
+{
+     height:auto;
+}
+#gl-date
+{
+     left:385px;
+}
+#bag-con
+{
+  left:536px;
+}
+}
+
+/* Large Screen 992px - 1199px */
+@media only screen and (min-width:992px) and (max-width:1199px)
+{
+    #div-container
+   {
+     margin-top:100px;
+     padding-bottom:10px;
+   } 
+   #my-self
+   {
+     font-size:17px;
+     letter-spacing:normal;
+     word-spacing:3px;
+     text-align: justify;
+     margin-bottom:20px;
+   }
+   .detail
+   {
+     margin-left: 0px;
+   }
+   #add
+   {
+     font-size: 12px;
+   }
+   #num
+   {
+     font-size: 12px;
+   }
+   #mail
+   {
+     font-weight:900;
+   }
+   .detail-name
+   {
+     font-size:15px;
+     padding:2px;
+   }
+   .info
+   {
+     font-size:10px;
+     margin-left:20px;
+     font-weight:700;
+   }
+   #num
+   {
+     margin-left:30px;
+   }
+   #mail
+   {
+     margin-left: 30px;
+   }
+   #div-exp
+                    {
+                         height:auto;
+                    }
+   #col-exp1
+   {
+        height:auto;
+   }
+   #col-exp2
+   {
+        height:auto;
+   }
+   #gl-date
+   {
+        left:300px;
+   }
+   #bag-con
+   {
+     left:445px;
+   }   
+}
+
+/* medium Screen 768px - 991px */
+@media only screen and (min-width:768px) and (max-width:991px)
+{
+    #div-container
+   {
+     margin-top:90px;
+     padding-bottom:10px;
+     padding-top:10px;
+   } 
+   #my-self
+   {
+     font-size:16px;
+     letter-spacing:normal;
+     word-spacing:2px;
+     text-align: justify;
+     margin-bottom:15px;
+   }
+   .detail-name
+   {
+     font-size:15px;
+     padding: 2px;
+     display: block;
+     text-align: center;
+   }
+   .info
+   {
+     font-size:12px;
+     margin-left: 0px;
+     font-weight:700;
+   }
+   #num
+   {
+     margin-left:0px;
+   }
+   #mail
+   {
+     margin-left:0px;
+   }
+   #img
+   {
+     width: 300px;
+   }
+   #div-exp
+                    {
+                         height:auto;
+                    }
+   #col-exp1
+   {
+    height: auto;
+   }
+   #col-exp2
+   {
+    height: auto;
+   }
+   #bag-con
+   {
+     left:327px;
+   } 
+ #google
+ {
+     margin-left:20px;
+     margin-top:370px;
+ }
+ #abc
+{
+     margin-left:0px;
+     margin-top:500px;
+}
+#facebook
+{
+  margin-left: 0px;
+}
+#check2
+{
+  top:420px;
+}
+#gl-date
+{
+     top:460px;
+     left:175px;
+}
+#check3
+{
+  top:85px;
+}
+#abc-date
+{
+  top:45px;
+}
+}
+
+/* small Screen 576px - 767px */
+@media only screen and (min-width:576px) and (max-width:767px)
+{
+    #div-container
+   {
+     margin-top:90px;
+     padding-bottom:10px;
+     padding-top:10px;
+     margin-bottom: 20px;
+   } 
+   #my-self
+   {
+     font-size:16px;
+     letter-spacing:normal;
+     word-spacing:1px;
+     text-align: justify;
+     margin-bottom:15px;
+   }
+   .detail
+   {
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+   }
+   .detail-name
+   {
+     font-size:15px;
+     padding: 2px;
+     display: block;
+     text-align: center;
+   }
+   .info
+   {
+     font-size:9px;
+     margin-left:auto;
+     margin-right:auto;
+     width: 100%;
+     font-weight:900;
+   }
+   .social
+   {
+     margin-right:20px;
+   }
+   #num
+   {
+     margin-left:0px;
+   }
+   #mail
+   {
+     margin-left:0px;
+   }
+   #img
+   {
+     width: 350px;
+   }
+   #div-exp
+   {
+        height:auto;
+   }
+#col-exp1
+{
+height:auto;
+}
+#col-exp2
+{
+height: auto;
+}
+#bag-con
+{
+left:237px;
+} 
+#google
+{
+margin-left:20px;
+margin-top:500px;
+}
+#abc
+{
+margin-left:0px;
+margin-top:640px;
+}
+#facebook
+{
+margin-left: 0px;
+}
+#check2
+{
+top:560px;
+}
+#gl-date
+{
+top:600px;
+left:85px;
+}
+#check3
+{
+top:85px;
+}
+#abc-date
+{
+top:45px;
+}
+}
+
+
+
+/* mobile Screen 300px - 576px */
+@media only screen and (min-width:300px) and (max-width:575px)
+{
+    #div-container
+    {
+     margin-bottom: 20px;
+    }
+    #div-col
+    {
+     width: 100%;
+    }
+    #img
+    {
+     width:auto;
+    }
+    .detail-name
+    {
+     text-align: center;   
+     display: block;
+     font-size: 18px;
+    }
+    .detail
+    {
+     margin-right: auto;
+     margin-left: auto;
+    }
+    .info
+    {
+     font-size:16px; 
+     margin-left: 0px;
+     font-weight: 700;
+    }
+    #margin-bottom
+    {
+      width:100%;
+    }
+    #margin-bottom
+    {
+     display: none;
+    }
+    .dis-block
+    {
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     margin-top: 20px;
+    }
+    #bottom
+    {
+     margin-bottom: 20px;
+    }
+    .media2
+    {
+     color: white;
+    }
+    .social2
+    {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width:40px;
+     height:40px;
+     border-radius: 50%;
+     background-color: blue;
+    } 
+    #col1-service
+    {
+     width:100%;
+     border-top:10px solid rgba(128, 83, 0, 0.703);
+     border-bottom:10px solid rgba(128, 83, 0, 0.703);
+     border-radius: 20px;
+     margin-left: auto;
+     margin-right: auto;
+    }
+    #col2-service
+    {
+     border-top:10px solid rgba(128, 83, 0, 0.703);
+     border-bottom:10px solid rgba(128, 83, 0, 0.703);
+     border-radius: 20px;
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+    }
+    #div-col-prof
+    {
+     width: 100%;
+    }
+    #div-col-pers
+    {
+     width:100%;
+     margin-top:50px;
+    }
+    #num
+    {
+      margin-left: 0px;
+    }
+    #mail
+    {
+      margin-left: 0px;
+    }
+    #div-col2
+    {
+     margin-top: 30px;
+     width: 100%;
+     padding: 0px 30px;
+    }
+    #name
+    {
+     text-align: center;
+     font-weight: bolder;
+     margin-bottom:15px;
+    }
+    #professional
+    {
+     font-size: 16px;
+     text-align: center;
+    }
+    
+    .b-t-n
+    {
+     margin-left: auto;
+     width:200px;
+    }
+    #button
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #div-exp
+    {
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin-bottom: 10px;
+    }
+    #row-exp
+    {
+         display:block;
+    }
+    #col-exp1
+    {
+     width: 100%;
+     border: none;
+    }
+    #col-exp2
+    {
+     width: 100%;
+     border: none;
+    }
+    .bdr1
+    {
+     border-left:0px;
+     border-right:0px;
+    }
+    .bdr2
+    {
+     border-left:0px;
+     border-right:0px;
+    }
+    #google
+    {
+     margin-left:0px;
+     padding:20px;
+     margin-top:auto;
+     margin-left:auto;
+     margin-right: auto;
+     border-left:10px solid blue;
+     border-right:10px solid blue;
+    }
+     #facebook
+     {
+          margin-left:0px;
+          padding:20px;
+          margin-top:auto;
+          margin-left:auto;
+          margin-right: auto;
+          border-left:10px solid blue;
+          border-right:10px solid blue;
+     }
+     #abc
+     {
+          margin-left:auto;
+          margin-right: auto;
+          padding:20px;
+          margin-top:auto;
+          border-left:10px solid blue;
+          border-right:10px solid blue;
+     }
+     #bag-con
+     {
+      display: none;
+     }
+     #gl-date
+     {
+          display: none;
+     }
+     #check2
+     {
+          display: none;
+     }
+     #fb-date
+     {
+          display: none;
+     }
+     #check
+     {
+          display: none;
+     }
+     #abc-date
+     {
+          display: none;
+     }
+     #check3
+     { 
+          display: none;
+     }
+.original-date
+{
+     display: block;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+.chk
+{
+ margin-right: 5px;
+}
+.dt 
+{
+     background-color: blue;
+     padding: 5px;
+     color: white;
+     font-weight: bolder;
+     border-radius: 10px;
+}
+.show
+{
+     display: none;
+}
+.visible
+{
+     display: block;
+}
+}
